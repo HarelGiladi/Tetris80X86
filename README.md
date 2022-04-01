@@ -69,6 +69,7 @@ it runs well but lacks some features that need to be added:
  ### run the program/turbo debugger:
         -now for runing type the command fileName.exe in our case tetris.exe
          and now the program will run.
+         you can also go ahead and run the exe file in the reposteroy.
         -for debug type the command td filename in our case td tetris and
          an debug window will popout.
         
